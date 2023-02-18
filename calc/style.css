@@ -1,0 +1,20 @@
+.container {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.calcul {
+  background-color: #af94b0;
+  padding: 50px;
+  border-radius: 20px;
+}
+h4 {
+  text-align: center;
+}
+.block {
+  padding-top: 10px;
+}
+#block_end {
+  display: none;
+}
