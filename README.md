@@ -5,7 +5,7 @@ Here is my CV:
 https://valeryshel.github.io/Valerys-CV/
 
 - 🔭 I am currently working as a front-end developer at A&D Mortgage.
-- 🌱 I’m currently learning JavaScript animations, TypeScript and Angular.
+- 🌱 I’m currently learning JavaScript animations, TypeScript and PHP.
 - 📫 How to reach me: valeryshel@gmail.com
 - ⚡ Fun fact: Koalas have human-like fingerprints.
 
