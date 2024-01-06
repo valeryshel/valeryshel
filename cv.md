@@ -6,7 +6,7 @@
 
 - https://valeryshel.github.io/valeryshel/
 - E-mail: valeryshel@gmail.com
-- Telegram: valeryshel
+- Telegram: https://t.me/Valeryshel
 - Telegram-Blog: https://t.me/leralovescode
 - Phone: +7-921-388-22-65
 - Phone: +998-91-00-99-067
