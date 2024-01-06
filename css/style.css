@@ -1,7 +1,7 @@
 :root {
-  --dark-teal-color: rgb(4, 48, 54);
-  --light-teal-color: rgb(179, 210, 199);
-  --bright-pink-color: rgb(218, 0, 91);
+  --dark-teal-color: #2e062c;
+  --light-teal-color: #c8b9c4;
+  --bright-pink-color: #da005b;
 }
 * {
   margin: 0;
@@ -44,16 +44,20 @@ li {
 h1 {
   margin: 0;
   font-size: 40px;
+  padding: 0 0 40px 0;
 }
 h2 {
   margin-bottom: 20px;
   font-size: 25px;
   background-color: var(--light-teal-color);
-}
-h1,
-h2 {
   text-transform: uppercase;
   padding: 10px;
+}
+.card-name__title-h2 {
+  padding: 0;
+}
+.contacts-header {
+  padding: 0;
 }
 .content {
   display: flex;
@@ -67,11 +71,11 @@ h2 {
 }
 .wrap {
   display: flex;
-  justify-content: space-between;
   flex-direction: column;
   margin: 0 auto;
   padding-left: 15px;
   padding-right: 15px;
+  height: 100%;
 }
 .nav__list {
   display: flex;
@@ -80,7 +84,7 @@ h2 {
   padding-bottom: 20px;
   margin-top: 0;
 }
-.nav__list li{
+.nav__list li {
   padding-top: 5px;
   padding-bottom: 5px;
   padding-right: 20px;
@@ -112,11 +116,15 @@ h2 {
   justify-content: space-between;
 }
 .cite {
-  margin-top: 300px;
+  margin-top: 100px;
   padding: 20px;
+  position: relative;
+  height: inherit;
 }
 .cite__fav {
   font-family: "Shadows Into Light", cursive;
+  position: sticky;
+  top: 30px;
 }
 summary,
 details {
@@ -126,12 +134,25 @@ details {
 summary::-webkit-details-marker {
   color: var(--light-teal-color);
 }
+details a {
+  font-weight: 600;
+  color: var(--bright-pink-color);
+}
 .skills__list,
 .footer__list {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
   text-align: center;
+}
+
+.skills__list > li > svg {
+  max-width: 100px;
+  width: 100%;
+  margin: 12px auto;
+  display: block;
+  text-align: center;
+  min-height: 83px;
 }
 .skills__list > li > .svg-inline--fa {
   display: block;
@@ -146,6 +167,10 @@ summary::-webkit-details-marker {
   margin: 15px auto;
   font-size: 20px;
   text-align: center;
+}
+
+.projects-list > li {
+  margin-bottom: 20px;
 }
 
 .education-list li,
