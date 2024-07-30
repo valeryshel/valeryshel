@@ -4,7 +4,7 @@ My name is Lera and I'm Web-developer.✨
 Here's everything you need to know about me:
 https://valeryshel.github.io/valeryshel/
 
-- 🔭 I'm currently working as a Web developer at A&D Mortgage.
+- 🔭 I'm currently working as a Web developer.
 - 🌱 I'm currently learning JavaScript animations, TypeScript and PHP.
 - 👩‍💻 Your caring mentor and friend
 - 💻 My blog in Telegram in Russian https://t.me/leralovescode
