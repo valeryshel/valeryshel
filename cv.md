@@ -14,7 +14,7 @@
 
 ## About me
 
-Hey! My name is Valery. I'm from Saint-Petersburg, Russia. I work as a Web-developer at A&D Mortgage LLC. My main goal is to become an effective specialist who improves his knowledge and skills, works well in a team, makes decisions and takes responsibility for these decisions. My priorities are work-life balance, continuous learning, helping other participants. My strengths are meticulousness, accuracy, diligence.
+Hey! My name is Valery. I'm from Saint-Petersburg, Russia. I work as a Web-developer. My main goal is to become an effective specialist who improves his knowledge and skills, works well in a team, makes decisions and takes responsibility for these decisions. My priorities are work-life balance, continuous learning, helping other participants. My strengths are meticulousness, accuracy, diligence.
 For the last 3 years I have been creating websites on the WordPress CMS.
 I work in a team using Scrum methodology.
 
@@ -45,8 +45,6 @@ psycology, ecology, fitness, yoga and meditation.
 - [Point Office Space](https://valeryshel.github.io/point/)
 - [Noble Nectars](https://valeryshel.github.io/noble_nectars/)
 - [Coach Alina Krasnova](https://valeryshel.github.io/coach-krasnova/)
-- [A&D Mortgage - Nationwide mortgage lender B2B](https://admortgage.com/)
-- [A&D Home Loans - Nationwide mortgage lender B2C](https://adhomeloans.com/)
 - [MightyCall - VoIP System](https://mightycall.com/)
 - [IT Contact - IT-company](https://itcontact.ru/)
 - [Nordcloud - IT-company](https://nordcloud.ru)
