@@ -1,12 +1,10 @@
-### Hi there 👋
+### Привет👋
 
-My name is Lera and I'm Web-developer.✨
-Here's everything you need to know about me:
-https://valeryshel.github.io/valeryshel/
+Меня зовут **Лера** и я **frontend-разработчица**✨
 
-- 🔭 I'm currently working as a Web developer.
-- 🌱 I'm currently learning JavaScript animations, TypeScript and React.
-- 👩‍💻 Your caring mentor and friend
-- 💻 My blog in Telegram in Russian https://t.me/leralovescode
-- 📫 How to reach me: valeryshel@gmail.com
-- ⚡ Fun fact: Koalas have human-like fingerprints.
+- 🔭 Сейчас я нахожусь в поиске интересных вызовов.
+- 🌱 Изучаю **креативный фронтенд** в экосистеме React
+- 👩‍💻 Я - твой заботливый ментор и просто подруга
+- 💻 [**Мой Блог LeraLovesCode:**](https://t.me/leralovescode)
+- 📫 [**Скажи Привет!**](https://t.me/valeryshel)
+- ⚡ Fun fact: У коал отпечатки пальцев похожи на человеческие
